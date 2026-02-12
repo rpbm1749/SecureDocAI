@@ -1,0 +1,19 @@
+.env
+.env.*
+
+# Node
+node_modules/
+dist/
+
+# Tauri
+src-tauri/target/
+src-tauri/gen/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+
+.vs
